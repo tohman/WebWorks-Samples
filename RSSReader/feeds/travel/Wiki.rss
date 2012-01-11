@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
+    <channel>
+        <title>Wikitravel</title>
+        <link>http://wikitravel.org/en/</link>
+        <description>Features, news, trivia and project info from
+            Wikitravel, the open content travel guide made by
+            travellers.</description>
+        <language>en</language>
+        <copyright>Copyright Wikitravel contributors. All content
+            available under the Creative Commons Attribution-ShareAlike
+            1.0 license.</copyright>
+        <webMaster>evan@wikitravel.org (Evan Prodromou)</webMaster>
+        <lastBuildDate>Wed, 05 Mar 2008 10:02:00 GMT</lastBuildDate>
+
+        <category>travel</category>
+        <category>travel guide</category>
+        <category>wiki</category>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <image>
+            <url>http://wikitravel.org/wikitravel-64.png</url>
+            <title>Wikitravel</title>
+            <link>http://wikitravel.org/en/</link>
+            <height>64</height>
+
+            <width>64</width>
+        </image>
+        <item>
+            <title>Travel news: Monte Carlo Las Vegas Update</title>
+            <pubDate>Wed, 01 Dec 1999 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:travel-news:Monte-Carlo-Las-Vegas-Update
+            </guid>
+            <link>http://wikitravel.org/en/Travel_news#Monte_Carlo_Las_Vegas_Update
+            </link>
+            <description>As of today, &lt;a
+                href=&quot;http://wikitravel.org/en/Las_Vegas&quot;
+                title=&quot;Las Vegas&quot;&gt;Las Vegas&lt;/a&gt;'
+                Monte Carlo Casino Hotel remains closed pending the
+                investigation of last week's fire and the impending
+                repair work. At this time, reservations at the Monte
+                Carlo are being moved to other MGM Mirage hotels. In
+                addition, the Lance Burton show will be suspended for
+                the time being and all tickets that have already been
+                purchased will be refunded.</description>
+        </item>
+
+        <item>
+            <title>Discover: Aberdeen</title>
+            <pubDate>Wed, 05 Mar 2008 05:53:07 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Aberdeen:The-Gordon-Highlanders-Museum
+            </guid>
+            <link>http://wikitravel.org/en/Aberdeen</link>
+            <description>Among the artifacts displayed at &lt;b&gt;The
+                Gordon Highlanders Museum&lt;/b&gt; in &lt;strong
+                class=&quot;selflink&quot;&gt;Aberdeen&lt;/strong&gt;,
+                &lt;a href=&quot;http://wikitravel.org/en/Scotland&quot;
+                title=&quot;Scotland&quot;&gt;Scotland&lt;/a&gt; is a
+                &lt;b&gt;flag&lt;/b&gt; from &lt;b&gt;Hitler's staff
+                car&lt;/b&gt;. (Don't ask how they got it.)
+            </description>
+        </item>
+
+        <item>
+            <title>Discover: Saudi Arabia</title>
+            <pubDate>Tue, 04 Mar 2008 05:53:07 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Saudi-Arabia:apple-flavored-Budweiser
+            </guid>
+            <link>http://wikitravel.org/en/Saudi_Arabia</link>
+            <description>In &lt;strong
+                class=&quot;selflink&quot;&gt;Saudi
+                Arabia&lt;/strong&gt;, you can try authentic
+                &lt;b&gt;apple-flavored Budweiser&lt;/b&gt;.
+                (Non-alcoholic, of course.)</description>
+        </item>
+
+        <item>
+            <title>Discover: Graz</title>
+            <pubDate>Mon, 03 Mar 2008 05:53:07 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Graz:UPC-Arena
+            </guid>
+            <link>http://wikitravel.org/en/Graz</link>
+            <description>&lt;b&gt;UPC Arena&lt;/b&gt; in &lt;strong
+                class=&quot;selflink&quot;&gt;Graz&lt;/strong&gt;, &lt;a
+                href=&quot;http://wikitravel.org/en/Austria&quot;
+                title=&quot;Austria&quot;&gt;Austria&lt;/a&gt; was
+                renamed in 1997 to honor native son &lt;b&gt;Arnold
+                Schwarzenegger&lt;/b&gt;, but the old name was restored
+                in 2005 over the governor's support of the
+                &lt;b&gt;death penalty&lt;/b&gt;.</description>
+        </item>
+
+        <item>
+            <title>Discover: Havana</title>
+            <pubDate>Sun, 02 Mar 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Havana:El-Camello
+            </guid>
+            <link>http://wikitravel.org/en/Havana</link>
+            <description>For an &quot;authentic&quot; experience in
+                getting around &lt;strong
+                class=&quot;selflink&quot;&gt;Havana&lt;/strong&gt; via
+                public transportation, try &lt;i&gt;&lt;b&gt;El
+                Camello&lt;/b&gt;&lt;/i&gt;, a split-level bus
+                &lt;b&gt;pulled by a semi-truck&lt;/b&gt;, and
+                resembling a 2-humped camel.</description>
+        </item>
+
+        <item>
+            <title>Discover: Santa Fe</title>
+            <pubDate>Sat, 01 Mar 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Santa-Fe-New-Mexico:art-colony
+            </guid>
+            <link>http://wikitravel.org/en/Santa_Fe_%28New_Mexico%29
+            </link>
+            <description>In the celebrated &lt;b&gt;art colony&lt;/b&gt;
+                of &lt;strong class=&quot;selflink&quot;&gt; Santa
+                Fe&lt;/strong&gt;, &lt;a
+                href=&quot;http://wikitravel.org/en/New_Mexico&quot;
+                title=&quot;New Mexico&quot;&gt;New Mexico&lt;/a&gt;,
+                you can of course get paintings of the scenery of the
+                &lt;a
+                href=&quot;http://wikitravel.org/en/Southwest_%28United_States_of_America%29&quot;
+                title=&quot;Southwest (United States of
+                America)&quot;&gt; southwestern&lt;/a&gt; &lt;a
+                href=&quot;http://wikitravel.org/en/United_States_of_America&quot;
+                title=&quot;United States of America&quot;&gt; United
+                States&lt;/a&gt;, but did you know you can also get
+                &lt;b&gt;original paintings of Daffy Duck and Wile E.
+                Coyote&lt;/b&gt;?</description>
+        </item>
+
+        <item>
+            <title>Discover: Kota Kinabalu</title>
+            <pubDate>Fri, 29 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Kota-Kinabalu:Hall-of-Skulls
+            </guid>
+            <link>http://wikitravel.org/en/Kota_Kinabalu</link>
+            <description>The &lt;b&gt;Hall of Skulls&lt;/b&gt; at
+                &lt;b&gt;Monsopiad Cultural Village&lt;/b&gt; outside
+                &lt;strong class=&quot;selflink&quot;&gt;Kota
+                Kinabalu&lt;/strong&gt;, &lt;a
+                href=&quot;http://wikitravel.org/en/Malaysia&quot;
+                title=&quot;Malaysia&quot;&gt;Malaysia&lt;/a&gt;
+                features &lt;b&gt;42 skulls&lt;/b&gt; of enemies, all
+                &lt;b&gt;killed&lt;/b&gt; by the warrior-hero Monsopiad.
+            </description>
+        </item>
+
+        <item>
+            <title>Discover: Lubbock</title>
+            <pubDate>Thu, 28 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Lubbock:Buddy-Holly-Center
+            </guid>
+            <link>http://wikitravel.org/en/Lubbock</link>
+            <description>Among the objects on display at the
+                &lt;b&gt;Buddy Holly Center&lt;/b&gt; in &lt;strong
+                class=&quot;selflink&quot;&gt;Lubbock&lt;/strong&gt;,
+                &lt;a href=&quot;http://wikitravel.org/en/Texas&quot;
+                title=&quot;Texas&quot;&gt;Texas&lt;/a&gt;,
+                memorializing the city's favorite son, is a
+                &lt;b&gt;giant-size replica&lt;/b&gt; of the rocker's
+                trademark &lt;b&gt;glasses&lt;/b&gt;.</description>
+        </item>
+
+        <item>
+            <title>Discover: Seoul</title>
+            <pubDate>Wed, 27 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Seoul:spicy-fermented-cabbage
+            </guid>
+            <link>http://wikitravel.org/en/Seoul</link>
+            <description>Fans of &lt;b&gt;spicy fermented
+                cabbage&lt;/b&gt; from all over Korea flock to the
+                &lt;b&gt;Kimchi Museum&lt;/b&gt; in &lt;strong
+                class=&quot;selflink&quot;&gt;Seoul&lt;/strong&gt;.
+            </description>
+        </item>
+
+        <item>
+            <title>Discover: Bergen</title>
+            <pubDate>Tue, 26 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Bergen:famously-rainy
+            </guid>
+            <link>http://wikitravel.org/en/Bergen</link>
+            <description>The Norwegian city of &lt;strong
+                class=&quot;selflink&quot;&gt;Bergen&lt;/strong&gt; is
+                &lt;b&gt;famously rainy&lt;/b&gt;, but the locals say
+                &lt;b&gt;there's no such thing as bad weather, only bad
+                clothing&lt;/b&gt;.</description>
+        </item>
+
+        <item>
+            <title>Discover: Takaoka</title>
+            <pubDate>Mon, 25 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Takaoka:Ice-Watching
+            </guid>
+            <link>http://wikitravel.org/en/Takaoka</link>
+            <description>On your way from &lt;strong
+                class=&quot;selflink&quot;&gt;Takaoka&lt;/strong&gt; to
+                the &lt;a
+                href=&quot;http://wikitravel.org/en/Vladivostok&quot;
+                title=&quot;Vladivostok&quot;&gt;Vladivostok&lt;/a&gt;
+                ferry? Take a look out the window: the name of the
+                &lt;i&gt;Himi&lt;/i&gt; train line means
+                &lt;b&gt;Ice-Watching&lt;/b&gt;.</description>
+        </item>
+
+        <item>
+            <title>Discover: Cranbrook</title>
+            <pubDate>Sun, 24 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Cranbrook:alligator-meat
+            </guid>
+            <link>http://wikitravel.org/en/Cranbrook</link>
+            <description>If you visit &lt;strong
+                class=&quot;selflink&quot;&gt;Cranbrook&lt;/strong&gt;,
+                &lt;a
+                href=&quot;http://wikitravel.org/en/British_Columbia&quot;
+                title=&quot;British Columbia&quot;&gt;British
+                Columbia&lt;/a&gt;, &lt;a
+                href=&quot;http://wikitravel.org/en/Canada&quot;
+                title=&quot;Canada&quot;&gt;Canada&lt;/a&gt; and crave a
+                dinner of &lt;b&gt;alligator meat&lt;/b&gt;, you can get
+                it at &lt;b&gt;K's Amazon Eatery&lt;/b&gt; -- even
+                though the Amazon and its gators are thousands of miles
+                away.</description>
+        </item>
+
+        <item>
+            <title>Discover: Jakar</title>
+            <pubDate>Sat, 23 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Jakar:cypress-tree
+            </guid>
+            <link>http://wikitravel.org/en/Jakar</link>
+            <description>A &lt;b&gt;cypress tree&lt;/b&gt; outside
+                &lt;b&gt;Kurje Lhakhang&lt;/b&gt; monastery in
+                &lt;strong
+                class=&quot;selflink&quot;&gt;Jakar&lt;/strong&gt;,
+                &lt;a href=&quot;http://wikitravel.org/en/Bhutan&quot;
+                title=&quot;Bhutan&quot;&gt;Bhutan&lt;/a&gt; is claimed
+                to have grown from &lt;b&gt;Guru Rinpoche's walking
+                stick&lt;/b&gt;.</description>
+        </item>
+
+        <item>
+            <title>Discover: Vicksburg</title>
+            <pubDate>Fri, 22 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Vicksburg:Vicksburg
+            </guid>
+            <link>http://wikitravel.org/en/Vicksburg</link>
+            <description>When you visit &lt;b&gt;&lt;strong
+                class=&quot;selflink&quot;&gt;Vicksburg&lt;/strong&gt;&lt;/b&gt;
+                (&lt;a
+                href=&quot;http://wikitravel.org/en/Mississippi&quot;
+                title=&quot;Mississippi&quot;&gt;Mississippi&lt;/a&gt;)
+                &lt;b&gt;National Military Park&lt;/b&gt;, you can see
+                one of the first &lt;b&gt;ironclad gunboats&lt;/b&gt;,
+                dating back to US Civil War times.</description>
+        </item>
+
+        <item>
+            <title>Discover: Japan</title>
+            <pubDate>Thu, 21 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Japan:Japans-Top-3the-list
+            </guid>
+            <link>http://wikitravel.org/en/Japan</link>
+            <description>Good things come in threes &amp;mdash; and in
+                &lt;strong
+                class=&quot;selflink&quot;&gt;Japan&lt;/strong&gt;,
+                &lt;b&gt;&lt;a
+                href=&quot;http://wikitravel.org/en/Japan%27s_Top_3&quot;
+                title=&quot;Japan's Top 3&quot;&gt;the
+                list&lt;/a&gt;&lt;/b&gt; includes &lt;b&gt;views,
+                castles, gardens, mountains, hot springs and giant
+                Buddha statues&lt;/b&gt;.</description>
+        </item>
+
+        <item>
+            <title>Discover: Bohinj</title>
+            <pubDate>Wed, 20 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Bohinj:Medieval-frescoes
+            </guid>
+            <link>http://wikitravel.org/en/Bohinj</link>
+            <description>&lt;b&gt;Medieval frescoes&lt;/b&gt; in the
+                Church of St. John the Baptist in &lt;strong
+                class=&quot;selflink&quot;&gt;Bohinj&lt;/strong&gt;,
+                &lt;a href=&quot;http://wikitravel.org/en/Slovenia&quot;
+                title=&quot;Slovenia&quot;&gt;Slovenia&lt;/a&gt; often
+                show figures with &lt;b&gt;large swellings of the
+                neck&lt;/b&gt; (goiters), caused by &lt;b&gt;lack of
+                iodine&lt;/b&gt; in the local diet.</description>
+        </item>
+
+        <item>
+            <title>Discover: Saudi Arabia</title>
+            <pubDate>Tue, 19 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Saudi-Arabia:alcohol-dancing-movies
+            </guid>
+            <link>http://wikitravel.org/en/Saudi_Arabia</link>
+            <description>Don't look for nightlife in &lt;strong
+                class=&quot;selflink&quot;&gt;Saudi
+                Arabia&lt;/strong&gt;: &lt;b&gt;alcohol, dancing,
+                movies&lt;/b&gt; and &lt;b&gt;mingling with the opposite
+                sex&lt;/b&gt; are all &lt;b&gt;prohibited&lt;/b&gt;.
+            </description>
+        </item>
+
+        <item>
+            <title>Discover: Tokyo</title>
+            <pubDate>Mon, 18 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Tokyo:Northern-Western-Eastern-and-Southern-Capitals
+            </guid>
+            <link>http://wikitravel.org/en/Tokyo</link>
+            <description>Want to visit the &lt;b&gt;Northern, Western,
+                Eastern and Southern Capitals&lt;/b&gt;? Book flights to
+                &lt;a href=&quot;http://wikitravel.org/en/Beijing&quot;
+                title=&quot;Beijing&quot;&gt;Beijing&lt;/a&gt;, &lt;a
+                href=&quot;http://wikitravel.org/en/Xian&quot;
+                title=&quot;Xian&quot;&gt;Xian&lt;/a&gt;, &lt;strong
+                class=&quot;selflink&quot;&gt;Tokyo&lt;/strong&gt; and
+                &lt;a href=&quot;http://wikitravel.org/en/Nanjing&quot;
+                title=&quot;Nanjing&quot;&gt;Nanjing&lt;/a&gt;.
+            </description>
+        </item>
+
+        <item>
+            <title>Discover: Savannah</title>
+            <pubDate>Sun, 17 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Savannah:Chippewa-Square
+            </guid>
+            <link>http://wikitravel.org/en/Savannah</link>
+            <description>&lt;b&gt;Chippewa Square&lt;/b&gt; in
+                &lt;strong
+                class=&quot;selflink&quot;&gt;Savannah&lt;/strong&gt;,
+                &lt;a href=&quot;http://wikitravel.org/en/Georgia&quot;
+                title=&quot;Georgia&quot;&gt;Georgia&lt;/a&gt; was the
+                site of the &lt;b&gt;bus stop&lt;/b&gt; in the movie
+                &lt;i&gt;&lt;b&gt;Forrest Gump&lt;/b&gt;&lt;/i&gt;, but
+                don't look for the famous bench; it was just a
+                &lt;b&gt;prop&lt;/b&gt;.</description>
+        </item>
+
+        <item>
+            <title>Discover: Kanab</title>
+            <pubDate>Sat, 16 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Kanab:Houstons
+            </guid>
+            <link>http://wikitravel.org/en/Kanab</link>
+            <description>When eating at &lt;b&gt;Houston's&lt;/b&gt;
+                restaurant in &lt;strong
+                class=&quot;selflink&quot;&gt;Kanab&lt;/strong&gt;,
+                &lt;a href=&quot;http://wikitravel.org/en/Utah&quot;
+                title=&quot;Utah&quot;&gt;Utah&lt;/a&gt;, tip the
+                servers well; they &lt;b&gt;pack pistols&lt;/b&gt;,
+                although it's just for show -- allegedly.</description>
+        </item>
+
+        <item>
+            <title>Discover: Fukuoka</title>
+            <pubDate>Fri, 15 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Fukuoka:bullet-train-ride
+            </guid>
+            <link>http://wikitravel.org/en/Fukuoka</link>
+            <description>A &lt;b&gt;bullet train ride&lt;/b&gt; on the
+                Hakata-Minami Line in &lt;strong
+                class=&quot;selflink&quot;&gt;Fukuoka&lt;/strong&gt;,
+                &lt;a href=&quot;http://wikitravel.org/en/Japan&quot;
+                title=&quot;Japan&quot;&gt;Japan&lt;/a&gt; costs just
+                &lt;b&gt;&amp;yen;290&lt;/b&gt; (under US$3). Alas, the
+                end-to-end trip lasts just ten minutes.</description>
+        </item>
+
+        <item>
+            <title>Off the Beaten Path: Cape Maclear</title>
+            <pubDate>Fri, 15 Feb 2008 00:00:00 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:Off-the-Beaten-Path:2008:February
+            </guid>
+            <link>http://wikitravel.org/en/Cape_Maclear</link>
+            <description>&lt;div class=&quot;thumb
+                tright&quot;&gt;&lt;div class=&quot;thumbinner&quot;
+                style=&quot;width:182px;&quot;&gt;&lt;a
+                href=&quot;http://wikitravel.org/en/Image:Malawi_Monkey_Bay_View.JPG&quot;
+                class=&quot;internal&quot; title=&quot;&quot;&gt;&lt;img
+                alt=&quot;&quot;
+                longdesc=&quot;http://wikitravel.org/en/Image:Malawi_Monkey_Bay_View.JPG&quot;
+                class=&quot;thumbimage&quot;
+                src=&quot;/upload/en/thumb/0/01/Malawi_Monkey_Bay_View.JPG/180px-Malawi_Monkey_Bay_View.JPG&quot;
+                width=&quot;180&quot; height=&quot;135&quot;
+                /&gt;&lt;/a&gt; &lt;div
+                class=&quot;thumbcaption&quot;&gt;&lt;div
+                class=&quot;magnify&quot;
+                style=&quot;float:right&quot;&gt;&lt;a
+                href=&quot;http://wikitravel.org/en/Image:Malawi_Monkey_Bay_View.JPG&quot;
+                class=&quot;internal&quot;
+                title=&quot;Enlarge&quot;&gt;&lt;img
+                src=&quot;http://files.wikitravel.org/mw/skins/common/images/magnify-clip.png&quot;
+                width=&quot;15&quot; height=&quot;11&quot;
+                alt=&quot;&quot;
+                /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;b&gt;Cape
+                Maclear&lt;/b&gt; (aka Chembe) is a small fishing
+                village on Lake Nyasa (Lake Malawi) in &lt;a
+                href=&quot;http://wikitravel.org/en/Malawi&quot;
+                title=&quot;Malawi&quot;&gt;Malawi&lt;/a&gt;. It has one
+                dirt road leading into (and straight out of) town. Along
+                this road, there are a few hostels, some dive shops, a
+                handful of vendors selling curios and fruit and a few
+                bars. The pace of life here is . . . very . . . slow.
+
+                &lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Discover: Clipperton Island</title>
+            <pubDate>Thu, 14 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Clipperton-Island:Clipperton-Island
+            </guid>
+            <link>http://wikitravel.org/en/Clipperton_Island</link>
+            <description>If you somehow find yourself visiting
+                &lt;b&gt;&lt;strong
+                class=&quot;selflink&quot;&gt;Clipperton
+                Island&lt;/strong&gt;&lt;/b&gt; and lack things to do
+                (understandably), try &lt;b&gt;running around the
+                island&lt;/b&gt; and timing yourself; the record
+                circumnavigation time is &lt;b&gt;one hour and 17
+                minutes&lt;/b&gt;.</description>
+        </item>
+
+        <item>
+            <title>Discover: Kratie</title>
+            <pubDate>Wed, 13 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Kratie:Phnom-Sombok
+            </guid>
+            <link>http://wikitravel.org/en/Kratie</link>
+            <description>The interior of the &lt;b&gt;Phnom
+                Sombok&lt;/b&gt; temple in &lt;strong
+                class=&quot;selflink&quot;&gt;Kratie&lt;/strong&gt;,
+                &lt;a href=&quot;http://wikitravel.org/en/Cambodia&quot;
+                title=&quot;Cambodia&quot;&gt;Cambodia&lt;/a&gt; is
+                &lt;b&gt;decorated with torture scenes&lt;/b&gt; for the
+                edification of the non-virtuous visitor.</description>
+        </item>
+
+        <item>
+            <title>Discover: Jacksonville</title>
+            <pubDate>Tue, 12 Feb 2008 05:53:24 GMT</pubDate>
+            <guid isPermaLink="false">tag:wikitravel.org:en:discover:Jacksonville:Fort-Caroline-National-Memorial
+            </guid>
+            <link>http://wikitravel.org/en/Jacksonville</link>
+            <description>If you visit &lt;b&gt;Fort Caroline National
+                Memorial&lt;/b&gt; in &lt;strong
+                class=&quot;selflink&quot;&gt;Jacksonville&lt;/strong&gt;,
+                &lt;a href=&quot;http://wikitravel.org/en/Florida&quot;
+                title=&quot;Florida&quot;&gt;Florida&lt;/a&gt;, don't
+                expect to see the eponymous fort itself; it's now
+                &lt;b&gt;beneath the waters&lt;/b&gt; of the
+                &lt;b&gt;St. John's River&lt;/b&gt;.</description>
+        </item>
+
+    </channel>
+</rss>

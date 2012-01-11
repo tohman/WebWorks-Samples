@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel>
+       <title>Travel Search.com</title>
+       <link>http://www.gooogle.com/</link>
+       <description>Hardcoded search for travel query.</description>
+       <language>en-us</language>
+       <pubDate>Wed, 04 Jan 2012 15:07:13 EST</pubDate>
+       <item>
+          <title>Travel News, Guides and Tips - Plan a Vacation</title>
+          <link>feeds/travel/CNN.rss</link>
+       </item>
+       <item>
+          <title>Free Worldwide Travel Guides - Wikitravel</title>
+          <link>feeds/travel/Wiki.rss</link>
+       </item>
+       <item>
+          <title>Travel News - ABC News</title>
+          <link>feeds/travel/ABC.rss</link>
+       </item>
+       <item>
+          <title>USA TODAY Travel Network</title>
+          <link>feeds/travel/USAToday.rss</link>
+       </item>
+    </channel>
+</rss>

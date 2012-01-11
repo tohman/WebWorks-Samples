@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--BUILD-DATE 1/6/2012 4:15 PM EST -->
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0"
+    xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005" version="2.0">
+    <channel>
+        <cf:treatAs>list</cf:treatAs>
+        <title>USATODAY.com Travel</title>
+        <link>http://www.usatoday.com</link>
+        <description>http://www.usatoday.com</description>
+        <language>en-us</language>
+
+        <copyright>Copyright 2012, USATODAY.com, USA TODAY</copyright>
+        <lastBuildDate>Fri, 06 Jan 2012 21:15:57 GMT</lastBuildDate>
+        <image>
+            <title>USATODAY.com</title>
+            <width>135</width>
+            <height>20</height>
+
+            <link>http://www.usatoday.com</link>
+            <url>http://i.usatoday.net/_common/_images/usatodaycom_135x20.gif</url>
+        </image>
+        <cf:listinfo>
+            <cf:sort element="pubDate" data-type="date"
+                label="Date/Time Order" default="false" />
+            <cf:sort element="title" data-type="text" label="Title Order"
+                default="false" />
+        </cf:listinfo>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom"
+            rel="self" type="application/rss+xml"
+            href="http://rssfeeds.usatoday.com/UsatodaycomTravel-TopStories" />
+        <feedburner:info uri="usatodaycomtravel-topstories" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom"
+            rel="hub" href="http://pubsubhubbub.appspot.com/" />
+        <item>
+
+            <title>Travel predictions for 2012: Doom and gloom may boost
+                tourism</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/1OQrnzrQe9w/1</link>
+            <pubDate>Fri, 06 Jan 2012 16:44:54 GMT</pubDate>
+            <description>Here are destinations and trends that will
+                influence American travelers' hard-earned time and money
+                in the months ahead.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/5l0FQwPCA63YnILI3MGH3f0hnjM/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/5l0FQwPCA63YnILI3MGH3f0hnjM/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/5l0FQwPCA63YnILI3MGH3f0hnjM/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/5l0FQwPCA63YnILI3MGH3f0hnjM/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/1OQrnzrQe9w"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/destinations/story/2012-01-06/Travel-predictions-for-2012-Doom-and-gloom-may-boost-tourism/52400836/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/destinations/story/2012-01-06/Travel-predictions-for-2012-Doom-and-gloom-may-boost-tourism/52400836/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>Photo tour: California's Carnival Inspiration</title>
+
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/wmdfS7MRz98/1</link>
+            <pubDate>Tue, 03 Jan 2012 12:41:00 GMT</pubDate>
+            <description>The 2,056-passenger ship began sailing out of
+                Long Beach, Calif., in December.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/wBQJ_zXdDsPw6Br4bty1MeKZQU0/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/wBQJ_zXdDsPw6Br4bty1MeKZQU0/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/wBQJ_zXdDsPw6Br4bty1MeKZQU0/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/wBQJ_zXdDsPw6Br4bty1MeKZQU0/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/wmdfS7MRz98"
+                height="1" width="1"/&gt;</description>
+
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/cruises/post/2012/01/photo-tour-carnival-cruise-lines-inspiration/595377/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/cruises/post/2012/01/photo-tour-carnival-cruise-lines-inspiration/595377/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>New island on the schedule at Royal Caribbean</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/q8C3NOoTub0/1</link>
+            <pubDate>Fri, 06 Jan 2012 20:36:00 GMT</pubDate>
+
+            <description>The 42-year-old line today began selling
+                cruises to visit St. Vincent for the first time.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/pgTQHsDEK4UJ3UQ446qll_pF2cY/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/pgTQHsDEK4UJ3UQ446qll_pF2cY/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/pgTQHsDEK4UJ3UQ446qll_pF2cY/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/pgTQHsDEK4UJ3UQ446qll_pF2cY/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/q8C3NOoTub0"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/cruises/post/2012/01/royal-caribbean-cruise-st-vincent/598015/1?csp=34travel</guid>
+
+            <feedburner:origLink>http://travel.usatoday.com/cruises/post/2012/01/royal-caribbean-cruise-st-vincent/598015/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>IHG loyalty club to raise point rates</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/odIPeBfPsCM/1</link>
+            <pubDate>Tue, 03 Jan 2012 11:26:00 GMT</pubDate>
+            <description>Hotel Check-In talks to IHG loyalty chief Don
+                Berg about the raising of point redemption rates in
+                2012.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/BNrfbKV2UKW3wkowDnu4DuLpaH0/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/BNrfbKV2UKW3wkowDnu4DuLpaH0/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/BNrfbKV2UKW3wkowDnu4DuLpaH0/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/BNrfbKV2UKW3wkowDnu4DuLpaH0/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/odIPeBfPsCM"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/hotels/post/2012/01/ihg-priority-club-to-raise-point-rates-but-phase-in-change/591898/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/hotels/post/2012/01/ihg-priority-club-to-raise-point-rates-but-phase-in-change/591898/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>Name that airport ...</title>
+
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/hXKVTkSSl-4/1</link>
+            <pubDate>Fri, 06 Jan 2012 17:10:00 GMT</pubDate>
+            <description>Here is this week's "name that airport" photo.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/XRSuNNNeyeBeLYkoPMp5HfVWNmA/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/XRSuNNNeyeBeLYkoPMp5HfVWNmA/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/XRSuNNNeyeBeLYkoPMp5HfVWNmA/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/XRSuNNNeyeBeLYkoPMp5HfVWNmA/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/hXKVTkSSl-4"
+                height="1" width="1"/&gt;</description>
+
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/flights/post/2012/01/name-that-airport-/597839/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/flights/post/2012/01/name-that-airport-/597839/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>Cracks found on A380 wings are 'non-critical'</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/PNkzagV1Fwc/1</link>
+            <pubDate>Fri, 06 Jan 2012 16:50:00 GMT</pubDate>
+
+            <description>Singapore Airlines and Qantas Airways said this
+                morning that discovered cracks pose no safety threat and
+                repairs have already been made.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/mLBsdmz6VCxFo3g2smJt1Dd2ijE/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/mLBsdmz6VCxFo3g2smJt1Dd2ijE/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/mLBsdmz6VCxFo3g2smJt1Dd2ijE/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/mLBsdmz6VCxFo3g2smJt1Dd2ijE/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/PNkzagV1Fwc"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/flights/post/2012/01/airbus-a380-cracks/597668/1?csp=34travel</guid>
+
+            <feedburner:origLink>http://travel.usatoday.com/flights/post/2012/01/airbus-a380-cracks/597668/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>What do Florida snowbirds do when temps dip?</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/f4rw97mYR-c/1</link>
+            <pubDate>Fri, 06 Jan 2012 16:43:00 GMT</pubDate>
+            <description>Brrrrr. When it's cold in Florida, snowbirds
+                change their hotel habits.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/ddT8l1w52SjPqXfNcvkAceY0Dug/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/ddT8l1w52SjPqXfNcvkAceY0Dug/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/ddT8l1w52SjPqXfNcvkAceY0Dug/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/ddT8l1w52SjPqXfNcvkAceY0Dug/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/f4rw97mYR-c"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/hotels/post/2012/01/what-do-florida-snowbirds-do-when-the-temperature-dips/596629/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/hotels/post/2012/01/what-do-florida-snowbirds-do-when-the-temperature-dips/596629/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>New details emerge in case of missing cruiser</title>
+
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/5r-P6h-Ztws/1</link>
+            <pubDate>Fri, 06 Jan 2012 16:05:00 GMT</pubDate>
+            <description>George Smith IV's disappearance from a Royal
+                Caribbean ship in 2005 created a media frenzy.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/AMwQJ9DmJ6zcPEhqhkyovhUOfRY/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/AMwQJ9DmJ6zcPEhqhkyovhUOfRY/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/AMwQJ9DmJ6zcPEhqhkyovhUOfRY/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/AMwQJ9DmJ6zcPEhqhkyovhUOfRY/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/5r-P6h-Ztws"
+                height="1" width="1"/&gt;</description>
+
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/cruises/post/2012/01/cruise-ship-disappearance-george-smith/597641/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/cruises/post/2012/01/cruise-ship-disappearance-george-smith/597641/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>Water shortage in St. Thomas impacts cruisers</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/CIMCbkKby3k/1</link>
+            <pubDate>Fri, 06 Jan 2012 12:49:00 GMT</pubDate>
+
+            <description>A broken boiler has forced the island's water
+                authority to ration water since November.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/vlGFvQHZL36vzmgeT17joDGVqds/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/vlGFvQHZL36vzmgeT17joDGVqds/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/vlGFvQHZL36vzmgeT17joDGVqds/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/vlGFvQHZL36vzmgeT17joDGVqds/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/CIMCbkKby3k"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/cruises/post/2012/01/st-thomas-water-shortage-cruise-/597624/1?csp=34travel</guid>
+
+            <feedburner:origLink>http://travel.usatoday.com/cruises/post/2012/01/st-thomas-water-shortage-cruise-/597624/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>Hooters hotel in Vegas heads to auction block</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/d0L4uc8w6oE/1</link>
+            <pubDate>Fri, 06 Jan 2012 11:10:00 GMT</pubDate>
+            <description>The Hooters Casino Hotel - under Ch. 11
+                protection - will likely be sold to the highest bidder
+                next month. A judge must first approve the pl ...
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/CeeoJdlQPXA6Zkb6lUwPaNTyRKc/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/CeeoJdlQPXA6Zkb6lUwPaNTyRKc/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/CeeoJdlQPXA6Zkb6lUwPaNTyRKc/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/CeeoJdlQPXA6Zkb6lUwPaNTyRKc/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/d0L4uc8w6oE"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/hotels/post/2012/01/what-will-become-of-hooters-hotel-in-las-vegas/597505/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/hotels/post/2012/01/what-will-become-of-hooters-hotel-in-las-vegas/597505/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>Hilton launches first loyalty promo of 2012</title>
+
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/l0xYLXyTqXY/1</link>
+            <pubDate>Fri, 06 Jan 2012 10:36:00 GMT</pubDate>
+            <description>Hilton kicks off its first loyalty promo of
+                2012.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/EZDcbjCSEKyyiKZXWEIM8Sf_WrI/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/EZDcbjCSEKyyiKZXWEIM8Sf_WrI/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/EZDcbjCSEKyyiKZXWEIM8Sf_WrI/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/EZDcbjCSEKyyiKZXWEIM8Sf_WrI/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/l0xYLXyTqXY"
+                height="1" width="1"/&gt;</description>
+
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/hotels/post/2012/01/hilton-hhonors-first-loyalty-promo-of-2012/597506/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/hotels/post/2012/01/hilton-hhonors-first-loyalty-promo-of-2012/597506/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>10 great places to explore the world's best-kept
+                secrets</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/l1d-TfqZGCY/1</link>
+            <pubDate>Fri, 06 Jan 2012 00:30:00 GMT</pubDate>
+
+            <description>If you've resolved to explore new horizons this
+                year, try one of these incredible sites that are off the
+                public's radar.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/QX4aoQ4vnbLNjNnoGkTfzl2fOaE/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/QX4aoQ4vnbLNjNnoGkTfzl2fOaE/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/QX4aoQ4vnbLNjNnoGkTfzl2fOaE/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/QX4aoQ4vnbLNjNnoGkTfzl2fOaE/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/l1d-TfqZGCY"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/destinations/10great/story/2012-01-05/10-great-places-to-explore-the-worlds-best-kept-secrets/52391986/1?csp=34travel</guid>
+
+            <feedburner:origLink>http://travel.usatoday.com/destinations/10great/story/2012-01-05/10-great-places-to-explore-the-worlds-best-kept-secrets/52391986/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>United-Continental, US Airways, Delta add Europe
+                surcharge</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/ZgbWHFzzI4Q/1</link>
+            <pubDate>Thu, 05 Jan 2012 23:29:29 GMT</pubDate>
+            <description>United-Continental, US Airways and Delta have
+                added $3 surcharges to tickets to Europe as the EU
+                begins charging for carbon emissions.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/Uh8adsML1SDZf-5soMmdvhhv6qA/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/Uh8adsML1SDZf-5soMmdvhhv6qA/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/Uh8adsML1SDZf-5soMmdvhhv6qA/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/Uh8adsML1SDZf-5soMmdvhhv6qA/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/ZgbWHFzzI4Q"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/flights/story/2012-01-05/United-Continental-US-Airways-Delta-add-Europe-surcharge/52396406/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/flights/story/2012-01-05/United-Continental-US-Airways-Delta-add-Europe-surcharge/52396406/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>New year, newly redone rooms at top Vegas resorts</title>
+
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/UIDv0htYol4/1</link>
+            <pubDate>Thu, 05 Jan 2012 21:35:00 GMT</pubDate>
+            <description>Vegas is on the upswing when it comes to
+                tourism, even in these tough economic times.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/wwK8Ld8pKyMfvoKFnP5pKz52OyY/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/wwK8Ld8pKyMfvoKFnP5pKz52OyY/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/wwK8Ld8pKyMfvoKFnP5pKz52OyY/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/wwK8Ld8pKyMfvoKFnP5pKz52OyY/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/UIDv0htYol4"
+                height="1" width="1"/&gt;</description>
+
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/destinations/dispatches/post/2012/01/the-new-year-brings-newly-redone-rooms-at-top-vegas-resorts/597266/1?csp=34travel</guid>
+            <feedburner:origLink>http://travel.usatoday.com/destinations/dispatches/post/2012/01/the-new-year-brings-newly-redone-rooms-at-top-vegas-resorts/597266/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+        <item>
+            <title>EU airline carbon tax threatens global trade war</title>
+            <link>http://rssfeeds.usatoday.com/~r/UsatodaycomTravel-TopStories/~3/6iAQWx98Bq0/1</link>
+            <pubDate>Thu, 05 Jan 2012 21:05:00 GMT</pubDate>
+
+            <description>The European Union appears to be risking a
+                potential global trade war unless it backs down from its
+                controversial carbon tax on airlines.
+                &lt;p&gt;&lt;a
+                href="http://feedads.g.doubleclick.net/~at/s5-kTiqijflaNQkNCKuceTb3hx4/0/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/s5-kTiqijflaNQkNCKuceTb3hx4/0/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a
+                href="http://feedads.g.doubleclick.net/~at/s5-kTiqijflaNQkNCKuceTb3hx4/1/da"&gt;&lt;img
+                src="http://feedads.g.doubleclick.net/~at/s5-kTiqijflaNQkNCKuceTb3hx4/1/di"
+                border="0"
+                ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img
+                src="http://feeds.feedburner.com/~r/UsatodaycomTravel-TopStories/~4/6iAQWx98Bq0"
+                height="1" width="1"/&gt;</description>
+            <guid isPermalink="true" isPermaLink="false">http://travel.usatoday.com/flights/post/2012/01/trade-war/597366/1?csp=34travel</guid>
+
+            <feedburner:origLink>http://travel.usatoday.com/flights/post/2012/01/trade-war/597366/1?csp=34travel
+            </feedburner:origLink>
+        </item>
+    </channel>
+</rss>
